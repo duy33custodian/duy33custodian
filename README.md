@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: no one
 - 📫 How to reach me: My Facebook, and Zalo
 - 😄 Pronouns: Normal
-- ⚡ Fun fact: I'm so boring
+- ⚡ Fun fact: I'm so excited when listen to music
 
 <!---
 duy33custodian/duy33custodian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
