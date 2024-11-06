@@ -5,14 +5,14 @@
 
 - 👋 ***Xin chào***
 - 👀 ***Mình tên là Trần Ngọc Duy***
-- 🌱 **Mình rất vui vì là một thành viên của cộng động Trường Đại học Công nghệ Thông tin, trong Trainee Program 2024 đây**
-- 😄 *Rất mong chúng ta có thể đồng hành cùng nhau trong hành trình này *
+- 🌱 ***Mình rất vui vì là một thành viên của cộng động Trường Đại học Công nghệ Thông tin, trong Trainee Program 2024 đây***
+- 😄 *Rất mong chúng ta có thể đồng hành cùng nhau trong hành trình này*
 - 💞️ ~~Hehe, mình vẫn chưa có bóng hồng nào chịu đồng hành cả :_))~~
-- 📫 Nêu muốn liên lạc với mình thì có thể liên hệ qua những kênh sau:
+- 📫 **Nêu muốn liên lạc với mình thì có thể liên hệ qua những kênh sau:**
 - [Facebook: Trần Duy](https://www.facebook.com/profile.php?id=100091932747854)
 - [GitHub: duy33custodian](https://github.com/duy33custodian)
 
-- ⚡Học năm nhất nên vẫn hơi non, mong được thông cảm :))
+- ⚡*Học năm nhất nên vẫn hơi non, mong được thông cảm :))*
 ### Deus Vult ###
 
 <!---
