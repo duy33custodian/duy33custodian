@@ -72,7 +72,7 @@ cout<<"chieu cao cua ban? ";
 cin>>nguoi.chieucao;
 chi_so_BMI(nguoi);
 thoigian (nguoi, 1);
-
 cout << "ket thuc" << endl;
 return 0;
+
 }
